@@ -20,7 +20,26 @@ A Bioskop Flutter app to order and buy ticket for watching a Movie.
 
 <!-- <img src="ss/mockup.png"/> -->
 
-| Splash Screen                               | Sign In                                     |
-| ------------------------------------------- | ------------------------------------------- |
-| <img src="flutix/flutix1.jpg" width="400">  | <img src="flutix/flutix1.jpg" width="400">  |
+| Splash Screen                               | Sign In                                     | Sign Out                                    |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix1.jpg" width="200">  | <img src="flutix/flutix3.jpg" width="200">  | <img src="flutix/flutix2.jpg" width="200">  |
 
+| Movies                                      | Movie Details                               | Select Cinema & Date                        |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix4.jpg" width="200">  | <img src="flutix/flutix12.jpg" width="200">  | <img src="flutix/flutix7.jpg" width="200">  |
+
+| Choose Seat                                 | Checkout Wallet                             | Success Checkout                            |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix8.jpg" width="200">  | <img src="flutix/flutix5.jpg" width="200">  | <img src="flutix/flutix6.jpg" width="200">  |
+
+| My Tickets Newest                           | My Tickets Oldest                           | Ticket Details                              |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix4.jpg" width="200">  | <img src="flutix/flutix5.jpg" width="200">  | <img src="flutix/flutix6.jpg" width="200">  |
+
+| Top Up Wallet                               | Success Top Up                              | My Wallet                                   |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix4.jpg" width="200">  | <img src="flutix/flutix5.jpg" width="200">  | <img src="flutix/flutix6.jpg" width="200">  |
+
+| Profile                                     | Edit Profile                                | My Wallet                                   |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="flutix/flutix4.jpg" width="200">  | <img src="flutix/flutix5.jpg" width="200">  | <img src="flutix/flutix6.jpg" width="200">  |

@@ -1,6 +1,6 @@
 # 📖📖 Flutix App 
 
-A Bioskop Flutter app to order and buy ticket for watching a Movie. 
+A Bioskop Flutter app to order ticket and Top Up wallet for watching a Movie. 
 
 ## 💻 Requirements
 

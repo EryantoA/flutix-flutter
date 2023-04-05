@@ -10,15 +10,14 @@ A Bioskop Flutter app to order and buy ticket for watching a Movie.
 
 ## ✨ Features
 
-- [x] Download eBooks.
-- [x] Read eBooks.
-- [x] Favorites.
-- [x] Dark Mode
-- [x] Swipe to delete downloads.
+- [x] User Management.
+- [x] Movies List.
+- [x] Select Cinema & Date.
+- [x] Booking Seat.
+- [x] Ticket List.
+- [x] Top Up Wallet.
 
 ## 📸 ScreenShots
-
-<!-- <img src="ss/mockup.png"/> -->
 
 | Splash Screen                               | Sign In                                     | Sign Out                                    |
 | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
@@ -26,7 +25,7 @@ A Bioskop Flutter app to order and buy ticket for watching a Movie.
 
 | User Profilling                             | Confirmation User                           | 
 | ------------------------------------------- | ------------------------------------------- | 
-| <img src="flutix/flutix10.jpg" width="200">  | <img src="flutix/flutix11.jpg" width="200">  |
+| <img src="flutix/flutix10.jpg" width="200"> | <img src="flutix/flutix11.jpg" width="200"> |
 
 | Movies                                      | Movie Details                               | Select Cinema & Date                        |
 | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
